@@ -73,6 +73,7 @@ export const TableContainer = styled.section`
 
       &.title {
         color: #363f5f;
+        width: 50%;
       }
 
       &.income {
